@@ -23,6 +23,12 @@ if (!defined('TL_ROOT'))
  * @author		Lutz Schoening
  * @package		easyupdate
  * @license		LGPL
+ * 
+ * Adapted to Contao > 2.9
+ * @copyright 	Copyright kikmedia.webdevelopment 2012
+ * @author		Carolina Koehn (ck@kikmedia.de)
+ * @package		ck_easyupdate
+ * @license		LGPL 
  */
 $GLOBALS['TL_LANG']['MOD']['easyupdate'] = array (
 	'easyUpdate',

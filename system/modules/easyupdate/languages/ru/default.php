@@ -8,6 +8,12 @@
  * Copyright : &copy; 2009 L.Schoening 
  * License   : LGPL 
  * Author    : Lutz Schoening (sawyer) 
+ * 
+ * Adapted to Contao > 2.9
+ * @copyright 	Copyright kikmedia.webdevelopment 2012
+ * @author		Carolina Koehn (ck@kikmedia.de)
+ * @package		ck_easyupdate
+ * @license		LGPL
  * Translator: Dmitri Kuznetsov (kuzmich), http://www.onfreedom.ru 
  * 
  * This file was created automatically be the Contao extension repository translation module.
