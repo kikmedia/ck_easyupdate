@@ -35,7 +35,7 @@ $GLOBALS['TL_LANG']['MOD']['easyupdate'] = array (
 	'Installieren Sie eine neue Version aus dem Backend heraus.'
 );
 $GLOBALS['TL_LANG']['easyupdate']['backBT'] = 'Zurück';
-$GLOBALS['TL_LANG']['easyupdate']['headline'] = 'easyUpdate einer TYPOlight-Version (aktuelle Version: %s)';
+$GLOBALS['TL_LANG']['easyupdate']['headline'] = 'easyUpdate einer Contao-Version (aktuelle Version ist: %s)';
 $GLOBALS['TL_LANG']['easyupdate']['selectfile'] = 'Bitte wählen Sie ein Archiv aus (ZIP-Datei)';
 $GLOBALS['TL_LANG']['easyupdate']['description'] = 'Wählen Sie hier ein Archiv aus, welches im Verzeichnis (tl_files/easyupdate) abgelegt werden muss (ev. vorhandene Unterverzeichnisse werden nicht durchsucht). Es werden nur ZIP-Dateien unterstützt.';
 $GLOBALS['TL_LANG']['easyupdate']['setfile'] = 'Auswählen';
@@ -43,7 +43,7 @@ $GLOBALS['TL_LANG']['easyupdate']['files']['original'] = 'Originaldateien';
 $GLOBALS['TL_LANG']['easyupdate']['files']['backup'] = 'Backupdateien';
 $GLOBALS['TL_LANG']['easyupdate']['noupdate'] = 'Dateien vom Update ausschließen';
 $GLOBALS['TL_LANG']['easyupdate']['demo'] = 'Demo Dateien';
-$GLOBALS['TL_LANG']['easyupdate']['config_legend'] = 'Config Dateien';
+$GLOBALS['TL_LANG']['easyupdate']['config_legend'] = 'Konfigurationsdateien';
 $GLOBALS['TL_LANG']['easyupdate']['other_legend'] = 'andere Dateien';
 $GLOBALS['TL_LANG']['easyupdate']['all'] = 'Alle auswählen';
 $GLOBALS['TL_LANG']['easyupdate']['noupdatetext'] = 'Die hier ausgewählten Dateien werden beim Aktualisieren nicht überschrieben bzw überspielt. In das Backup werde Sie aber trotzdem übernommen.';
@@ -55,8 +55,8 @@ $GLOBALS['TL_LANG']['easyupdate']['next'] = 'Nächsten Schritt ausführen';
 $GLOBALS['TL_LANG']['easyupdate']['previous'] = 'Zurück zum Hauptbildschirm';
 $GLOBALS['TL_LANG']['easyupdate']['settings'] = 'Einstellungen';
 $GLOBALS['TL_LANG']['easyupdate']['changelog']['headline'] = 'Changelog zwischen der Version %s und %s';
-$GLOBALS['TL_LANG']['easyupdate']['changelog']['same'] = 'Sie installieren die gleiche Version, daher auch keine Änderungen.';
-$GLOBALS['TL_LANG']['easyupdate']['changelog']['no'] = 'Der Changelog ist leider nicht lesbar. Weitere Informationen zu den Änderungen können Sie auf der TYPOlight-Homepage (http://www.typolight.org/) nachlesen.';
+$GLOBALS['TL_LANG']['easyupdate']['changelog']['same'] = 'Sie installieren dieselbe Version, daher auch keine Änderungen.';
+$GLOBALS['TL_LANG']['easyupdate']['changelog']['no'] = 'Das Changelog ist leider nicht lesbar. Weitere Informationen zu den Änderungen können Sie auf der Contao-Homepage unter http://www.contao.org nachlesen.';
 $GLOBALS['TL_LANG']['easyupdate']['content'] = 'Inhalt der Archiv-Datei';
 $GLOBALS['TL_LANG']['easyupdate']['backup'] = 'Sicherung der aktuellen Dateien';
 $GLOBALS['TL_LANG']['easyupdate']['backuped'] = 'Gesichert: ';
@@ -72,7 +72,7 @@ $GLOBALS['TL_LANG']['easyupdate']['readme']['text1'] = '<h2>Die Installation bes
 														<li>Aktualisierung der erforderlichen Dateien</li>
 														<li>Ausführung des Install-Tools</li></ul>
 														Für den 4. Schritt wird das Install-Tool verwendet. Es kann vorkommen, dass die Datenbank aktualisiert muss; darauf wird man im Install-Tool hingewiesen.														
-														Bitte beachten: Sofern die Config-Dateien überschrieben wurden, lautet das Passwort des Install-Tools "typolight".';
+														Bitte beachten: Sofern die Config-Dateien überschrieben wurden, lautet das Passwort des Install-Tools "contao".';
 $GLOBALS['TL_LANG']['easyupdate']['readme']['text2'] = '<h2>Sicherheitshinweise:</h2>
 														<ul><li>Es gibt keine 100%-ige Sicherheit, dass alles einwandfrei funktioniert. Seien Sie sich also bewusst, was Sie tun!</li>
 														<li>Machen Sie bei der ersten Verwendung dieses Tools ruhig eine zusätzliche Sicherung der Datenbank.</li>
