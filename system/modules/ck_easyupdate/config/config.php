@@ -33,7 +33,7 @@ if (!defined('TL_ROOT'))
 array_insert($GLOBALS['BE_MOD']['system'], 3, array (
 	'easyupdate' => array (
 		'callback' => 'easyupdate',
-		'icon' => 'system/modules/easyupdate/html/icon.png',
+		'icon' => 'system/modules/ck_easyupdate/html/icon.png',
 		
 	)
 ));
