@@ -97,7 +97,7 @@ $GLOBALS['TL_LANG']['easyupdate']['readme']['text3']['right'] = '<h2>Getestete u
 																<li>2.8.x ====> 2.5.x</li>
 																<li>2.5.x ====> 2.6.x</li>
                                                                 <li>2.8.x ====> 2.7.x</li></ul>';
-$GLOBALS['TL_LANG']['easyupdate']['readme']['text4'] = 'Getestet wurde eine Installation bis zur Contao Version 2.11.5 - es sollte jedoch auch keine Probleme mit neueren Versionen geben. Die Funktionen wurden an das neue Request-Token-System ab Contao 2.10.x angepasst.
+$GLOBALS['TL_LANG']['easyupdate']['readme']['text4'] = 'Getestet wurde eine Installation bis zur Contao Version 2.11.7 - es sollte jedoch auch keine Probleme mit neueren Versionen geben. Die Funktionen wurden an das neue Request-Token-System ab Contao 2.10.x angepasst.
 														Die Funktionsfähigkeit mit TYPOlight vor der Version 2.5 wurde nicht getestet, könnte aber funktionieren.
 														Wenn eine Versionsnummer X.X.X erscheint, dann ist wahrscheinlich die ZIP-Datei beschädigt.';
 ?>
